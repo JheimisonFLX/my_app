@@ -1,4 +1,6 @@
-# my_app
+# my_app Fundamentos de Flutter
+
+Mergulhe de cabeça no mundo Mobile. Aprenda a criar sua primeira App usando o Flutter. Crie telas com Widgets e implemente um fluxo inicial de uma lista e formulário de cadastro. Entenda os principais tipos de Widgets e organize o código do projeto.
 
 A new Flutter project.
 
